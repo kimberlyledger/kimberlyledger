@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimberlyledger
 - 👀 I’m interested in molecular ecology, environmental DNA, and so much more 
-- 💞️ I’m currently Research Biologist in NOAA's AFSC Genetics Program 
+- 💞️ I’m a Research Biologist in NOAA's AFSC Auke Bay Laboratories Genetics Program 
 - 📫 How to reach me: email is best - kimberly.ledger@noaa.gov
 
 <!---
