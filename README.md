@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimberlyledger
-- 👀 I’m interested in molecular ecology, landscape ecology, eDNA, and so much more 
-- 💞️ I’m currently a postdoctoral researcher in NOAA's AFSC Genetics Program 
-- 📫 How to reach me: email is best - kimberly.ledger@noaa.gov or kjledger@alaksa.edu
+- 👀 I’m interested in molecular ecology, environmental DNA, and so much more 
+- 💞️ I’m currently Research Biologist in NOAA's AFSC Genetics Program 
+- 📫 How to reach me: email is best - kimberly.ledger@noaa.gov
 
 <!---
 kimberlyledger/kimberlyledger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
